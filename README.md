@@ -2,13 +2,6 @@
 
 I'm Elif Eser, and here's a little bit about me:
 
-## 🔭 Current Work
-- I'm working on File Transfer Project.
-
-
-## 🌱 I'm currently learning
-- SwiftUI
-
 
 ## 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/elifilaykandemir/
